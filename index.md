@@ -9,3 +9,5 @@ empty git
 ```javascript
 var myvar="HELLO WORLD";
 ```
+- [ ] this is not ticked box
+- [x] this is a ticked box
